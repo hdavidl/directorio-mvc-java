@@ -17,7 +17,7 @@ public class ControladorInventario {
     public void iniciar() {
         boolean salir = false;
         
-        vista.mostrarMensaje("\n¡Bienvenido al Sistema de Inventario de DevSolutions!");
+        vista.mostrarMensaje("\n¡Bienvenido al sistema de Inventario de DevSolutions!");
         
         while (!salir) {
             try {
